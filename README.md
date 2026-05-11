@@ -33,7 +33,7 @@ A note-taking application that uses an Express.js backend to save and retrieve n
 - Bootstrap (front-end)
 
 ## Deployed Application
-[Heroku Link]() 
+[Heroku Link]( https://express-11-notetaker-1c87524de417.herokuapp.com/...) 
 
 ## Repository
 [GitHub Repo](https://github.com/jthapa1987/express.js-note-taker) 
